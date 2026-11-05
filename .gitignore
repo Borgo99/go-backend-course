@@ -3,3 +3,4 @@
 app.env.local
 /bin/
 *.out
+PROGRESS.md
